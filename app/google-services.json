@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "640769317192",
+    "firebase_url": "https://lucknow-services-default-rtdb.firebaseio.com",
+    "project_id": "lucknow-services",
+    "storage_bucket": "lucknow-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640769317192:android:b810c5eba65e897a193b7d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_projects"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640769317192-27vle68360k0grnk1in9hqeggn5jbi16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_projects",
+            "certificate_hash": "0b81a9788c64bd5dbdc3811bdaec72e3762a93ac"
+          }
+        },
+        {
+          "client_id": "640769317192-2ropjps3mr3aenihb2pgu6qvu7poq7ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzr_T9Erao9pWWD8Yp3fXuVoymD9dR2wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640769317192-2ropjps3mr3aenihb2pgu6qvu7poq7ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
